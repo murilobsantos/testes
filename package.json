@@ -1,0 +1,15 @@
+{
+  "name": "starsoft-loja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node pages/index.tsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Murilo Santos",
+  "license": "ISC",
+  "description": "Uma interface simples de loja",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
